@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Sarabun&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -17,6 +18,7 @@
     width: 100%;
     padding: 8px 0;
     background: #008b8b;
+    font-family: 'Sarabun', sans-serif;
 }
 
 .navbar .max-width{

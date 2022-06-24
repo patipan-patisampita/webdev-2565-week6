@@ -30,5 +30,17 @@
     display: inline-block;
 }
 
+.navbar .menu li a{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500px;
+    margin-left: 10px;
+}
+
+.navbar .logo a{
+    color: #fff;
+    font-size: 35px;
+    font-weight: 600px;
+} 
 
 
